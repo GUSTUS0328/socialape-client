@@ -1,3 +1,14 @@
+Front end codes.
+This website uses React.js, Redux, Material-UI and Node.js.
+You may access the website through https://socialape-191b0.firebaseapp.com/
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
